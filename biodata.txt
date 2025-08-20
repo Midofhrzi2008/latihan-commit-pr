@@ -1,3 +1,4 @@
 nama: mido
 asal: Banjarmasin
 umur: 17
+hobi: olahraga
