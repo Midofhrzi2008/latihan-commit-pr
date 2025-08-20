@@ -1,2 +1,3 @@
 nama: mido
-asal: banjarmasin
+asal: Banjarmasin
+umur: 17
